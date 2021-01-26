@@ -1,1 +1,1 @@
-# Kijanitest
+# Learn ethereum development
